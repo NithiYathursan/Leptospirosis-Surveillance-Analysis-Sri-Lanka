@@ -1,0 +1,131 @@
+Year,RDHS Area,Province,Disease,Cumulative Cases
+2021,Colombo,Western,Leptospirosis,236
+2021,Gampaha,Western,Leptospirosis,337
+2021,Kalutara,Western,Leptospirosis,729
+2021,Kandy,Central,Leptospirosis,298
+2021,Matale,Central,Leptospirosis,95
+2021,NuwaraEliya,Central,Leptospirosis,73
+2021,Galle,Southern,Leptospirosis,788
+2021,Hambantota,Southern,Leptospirosis,290
+2021,Matara,Southern,Leptospirosis,359
+2021,Jaffna ,Northern,Leptospirosis,33
+2021,Kilinochchi,Northern,Leptospirosis,60
+2021,Mannar,Northern,Leptospirosis,32
+2021,Vavuniya,Northern,Leptospirosis,25
+2021,Mullaitivu,Northern,Leptospirosis,35
+2021,Batticaloa,Eastern,Leptospirosis,57
+2021,Ampara,Eastern,Leptospirosis,75
+2021,Trincomalee,Eastern,Leptospirosis,5
+2021,Kurunegala,North Western,Leptospirosis,573
+2021,Puttalam,North Western,Leptospirosis,34
+2021,Anuradhapura,North Central,Leptospirosis,272
+2021,Polonnaruwa,North Central,Leptospirosis,156
+2021,Badulla,Uva,Leptospirosis,342
+2021,Monaragala,Uva,Leptospirosis,453
+2021,Ratnapura,Sabaragamuwa,Leptospirosis,919
+2021,Kegalle,Sabaragamuwa,Leptospirosis,648
+2021,Kalmunai,Eastern,Leptospirosis,22
+2022,Colombo,Western,Leptospirosis,288
+2022,Gampaha,Western,Leptospirosis,369
+2022,Kalutara,Western,Leptospirosis,550
+2022,Kandy,Central,Leptospirosis,213
+2022,Matale,Central,Leptospirosis,139
+2022,NuwaraEliya,Central,Leptospirosis,96
+2022,Galle,Southern,Leptospirosis,608
+2022,Hambantota,Southern,Leptospirosis,324
+2022,Matara,Southern,Leptospirosis,354
+2022,Jaffna ,Northern,Leptospirosis,28
+2022,Kilinochchi,Northern,Leptospirosis,15
+2022,Mannar,Northern,Leptospirosis,43
+2022,Vavuniya,Northern,Leptospirosis,28
+2022,Mullaitivu,Northern,Leptospirosis,43
+2022,Batticaloa,Eastern,Leptospirosis,75
+2022,Ampara,Eastern,Leptospirosis,138
+2022,Trincomalee,Eastern,Leptospirosis,41
+2022,Kurunegala,North Western,Leptospirosis,346
+2022,Puttalam,North Western,Leptospirosis,71
+2022,Anuradhapura,North Central,Leptospirosis,284
+2022,Polonnaruwa,North Central,Leptospirosis,176
+2022,Badulla,Uva,Leptospirosis,272
+2022,Monaragala,Uva,Leptospirosis,355
+2022,Ratnapura,Sabaragamuwa,Leptospirosis,1129
+2022,Kegalle,Sabaragamuwa,Leptospirosis,700
+2022,Kalmunai,Eastern,Leptospirosis,34
+2023,Colombo,Western,Leptospirosis,371
+2023,Gampaha,Western,Leptospirosis,624
+2023,Kalutara,Western,Leptospirosis,995
+2023,Kandy,Central,Leptospirosis,307
+2023,Matale,Central,Leptospirosis,155
+2023,NuwaraEliya,Central,Leptospirosis,201
+2023,Galle,Southern,Leptospirosis,990
+2023,Hambantota,Southern,Leptospirosis,401
+2023,Matara,Southern,Leptospirosis,552
+2023,Jaffna ,Northern,Leptospirosis,21
+2023,Kilinochchi,Northern,Leptospirosis,12
+2023,Mannar,Northern,Leptospirosis,41
+2023,Vavuniya,Northern,Leptospirosis,51
+2023,Mullaitivu,Northern,Leptospirosis,51
+2023,Batticaloa,Eastern,Leptospirosis,119
+2023,Ampara,Eastern,Leptospirosis,181
+2023,Trincomalee,Eastern,Leptospirosis,103
+2023,Kurunegala,North Western,Leptospirosis,556
+2023,Puttalam,North Western,Leptospirosis,143
+2023,Anuradhapura,North Central,Leptospirosis,353
+2023,Polonnaruwa,North Central,Leptospirosis,63
+2023,Badulla,Uva,Leptospirosis,256
+2023,Monaragala,Uva,Leptospirosis,361
+2023,Ratnapura,Sabaragamuwa,Leptospirosis,633
+2023,Kegalle,Sabaragamuwa,Leptospirosis,1391
+2023,Kalmunai,Eastern,Leptospirosis,781
+2024,Colombo,Western,Leptospirosis,623
+2024,Gampaha,Western,Leptospirosis,1034
+2024,Kalutara,Western,Leptospirosis,1012
+2024,Kandy,Central,Leptospirosis,302
+2024,Matale,Central,Leptospirosis,144
+2024,NuwaraEliya,Central,Leptospirosis,179
+2024,Galle,Southern,Leptospirosis,1051
+2024,Hambantota,Southern,Leptospirosis,563
+2024,Matara,Southern,Leptospirosis,694
+2024,Jaffna ,Northern,Leptospirosis,188
+2024,Kilinochchi,Northern,Leptospirosis,37
+2024,Mannar,Northern,Leptospirosis,41
+2024,Vavuniya,Northern,Leptospirosis,127
+2024,Mullaitivu,Northern,Leptospirosis,96
+2024,Batticaloa,Eastern,Leptospirosis,102
+2024,Ampara,Eastern,Leptospirosis,237
+2024,Trincomalee,Eastern,Leptospirosis,167
+2024,Kurunegala,North Western,Leptospirosis,1122
+2024,Puttalam,North Western,Leptospirosis,319
+2024,Anuradhapura,North Central,Leptospirosis,492
+2024,Polonnaruwa,North Central,Leptospirosis,325
+2024,Badulla,Uva,Leptospirosis,497
+2024,Monaragala,Uva,Leptospirosis,732
+2024,Ratnapura,Sabaragamuwa,Leptospirosis,2180
+2024,Kegalle,Sabaragamuwa,Leptospirosis,974
+2024,Kalmunai,Eastern,Leptospirosis,90
+2025,Colombo,Western,Leptospirosis,472
+2025,Gampaha,Western,Leptospirosis,866
+2025,Kalutara,Western,Leptospirosis,636
+2025,Kandy,Central,Leptospirosis,331
+2025,Matale,Central,Leptospirosis,317
+2025,NuwaraEliya,Central,Leptospirosis,209
+2025,Galle,Southern,Leptospirosis,924
+2025,Hambantota,Southern,Leptospirosis,377
+2025,Matara,Southern,Leptospirosis,480
+2025,Jaffna ,Northern,Leptospirosis,217
+2025,Kilinochchi,Northern,Leptospirosis,96
+2025,Mannar,Northern,Leptospirosis,49
+2025,Vavuniya,Northern,Leptospirosis,123
+2025,Mullaitivu,Northern,Leptospirosis,70
+2025,Batticaloa,Eastern,Leptospirosis,137
+2025,Ampara,Eastern,Leptospirosis,266
+2025,Trincomalee,Eastern,Leptospirosis,152
+2025,Kurunegala,North Western,Leptospirosis,842
+2025,Puttalam,North Western,Leptospirosis,357
+2025,Anuradhapura,North Central,Leptospirosis,437
+2025,Polonnaruwa,North Central,Leptospirosis,343
+2025,Badulla,Uva,Leptospirosis,327
+2025,Monaragala,Uva,Leptospirosis,593
+2025,Ratnapura,Sabaragamuwa,Leptospirosis,1588
+2025,Kegalle,Sabaragamuwa,Leptospirosis,862
+2025,Kalmunai,Eastern,Leptospirosis,120
